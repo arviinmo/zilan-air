@@ -1,2 +1,2 @@
 # zilan-air
-first backend exercise with node &amp; express 
+this is my first backend exercise using node & express
